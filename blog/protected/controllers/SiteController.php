@@ -25,11 +25,8 @@ class SiteController extends Controller
 	
 	public function actionIndex(){
 		
-<<<<<<< HEAD
+		//ERDEM AQ
 		echo 'Index function erdem';
-=======
-		echo 'Index function emre';
->>>>>>> 68fc14b3df2a324f30af43b251dcf14d2a4eb6f5
 	}
 
 	/**
