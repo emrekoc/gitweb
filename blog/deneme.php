@@ -1,3 +1,1 @@
 deneme
-
-denene deneme
