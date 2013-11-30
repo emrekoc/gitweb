@@ -27,6 +27,7 @@ class SiteController extends Controller
 		
 		//ERDEM AQ
 		echo 'Index function erdem';
+		echo 'Index function medre';
 	}
 
 	/**
