@@ -213,4 +213,9 @@ class PostController extends Controller
 		}
 		return $comment;
 	}
+	
+	public function actionTest(){
+		
+		echo 'Erdem deneme';
+	}
 }
