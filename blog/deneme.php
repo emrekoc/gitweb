@@ -1,1 +1,1 @@
-deneme
+Değiştirdim.
