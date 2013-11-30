@@ -25,7 +25,7 @@ class SiteController extends Controller
 	
 	public function actionIndex(){
 		
-		echo 'Index function added';
+		echo 'Index function emre';
 	}
 
 	/**
